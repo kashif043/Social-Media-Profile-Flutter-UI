@@ -6,4 +6,4 @@ Social Media Profile page with user information, stories and interactive tabs fo
 
 # App Final UI
 
-![](https://github.com/kashif043/Online-Shop-Flutter-UI/blob/master/image.png?raw=true)
+![](https://github.com/kashif043/Social-Media-Profile-Flutter-UI/blob/master/image.png?raw=true)
